@@ -7,7 +7,8 @@ Outline for block pages:
 - How to add a block (inserter or Block Toolbar More options)
 - Block Toolbar
 - Block settings
-- Advanced Block Setting (reusable)
+- Advanced block settings
+- Creating a pattern from the block (synced or not synced)
 - Links to know more
 - Change log - Last updated - WP version prompt
 
